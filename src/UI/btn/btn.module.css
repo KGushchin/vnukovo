@@ -1,0 +1,13 @@
+.divv {
+background-color: darkorange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.link {
+    padding: 5px 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}

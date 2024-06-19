@@ -1,0 +1,9 @@
+.divv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.titl {
+    margin-bottom: 25px;
+}

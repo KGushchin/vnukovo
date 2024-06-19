@@ -1,0 +1,16 @@
+.divv {
+    display: flex;
+}
+.listul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list {
+    margin-right: 15px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.list:hover {
+    transform: scale(1.05);
+}

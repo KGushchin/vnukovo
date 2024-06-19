@@ -1,0 +1,25 @@
+.gifka {
+    max-width: 150px;
+    border-radius: 50%;
+}
+.title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.subtitle {
+    font-size: 17px;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+.divv {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.lastitle {
+    color: darkorange;
+    font-weight: normal;
+    text-decoration: none;
+}

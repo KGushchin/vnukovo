@@ -1,0 +1,27 @@
+.divtable {
+    display: flex;
+    max-width: 900px;
+    width: 100%;
+   align-items: center;
+    border-bottom: 1px solid grey;
+    margin-bottom: 5px;
+}
+.divtable h2 {
+    font-weight: normal;
+    font-size: 14px;
+}
+.titlec {
+    margin-right: 150px;
+}
+.title {
+    margin-right: 90px;
+}
+.time {
+    margin-right: 100px;
+}
+.to {
+    margin-right: 170px;
+}
+.term {
+    margin-right: 170px;
+}

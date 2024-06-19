@@ -1,0 +1,31 @@
+.divv {
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    margin-bottom: 40px;
+}
+divv::after {
+    content: "";
+    background: url('../../../img/mom.jpg');
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
+.title {
+    color: darkorange;
+    font-size: 32px;
+}
+.subtitle {
+    color: white;
+    margin-bottom: 20px;
+}

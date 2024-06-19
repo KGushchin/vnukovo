@@ -1,0 +1,13 @@
+.divv {
+    max-width: 650px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 200px;
+    border-radius: 10px;
+}
+ul {
+    list-style: none;
+}

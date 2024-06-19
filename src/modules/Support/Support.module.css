@@ -1,0 +1,23 @@
+.divv {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+}
+.email {
+    margin-bottom: 30px;
+}
+.msg {
+    max-height: 450px;
+    height: 20vh;
+
+}
+.contacts {
+    font-weight: normal;
+    font-size: 12px;
+}
+.btna {
+    margin-bottom: 30px;
+}
+.pp {
+
+}

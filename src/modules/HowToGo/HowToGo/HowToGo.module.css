@@ -1,0 +1,10 @@
+.divv {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.nasral {
+    margin-bottom: 100px;
+}

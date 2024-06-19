@@ -1,0 +1,13 @@
+.tabletitle {
+    font-size: 24px;
+    font-weight: normal;
+}
+.tabletitle:not(:last-child) {
+    margin-right: 70px;
+}
+.tablediv {
+    display: flex;
+    align-items: center;
+    max-width: 900px;
+    width: 100%;
+}
